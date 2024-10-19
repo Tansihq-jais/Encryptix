@@ -1,2 +1,0 @@
-# Encryptix
-Movie Genre Classification 
